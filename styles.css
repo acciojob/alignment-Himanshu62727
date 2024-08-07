@@ -1,1 +1,12 @@
-/*  your css code here. If applicable */
+#t1 {
+	background-color: green;
+}
+
+#t2 {
+	background-image: url("https://www2.d125.org/applied_arts/teched/courses/WEB/portfolios/2013_FallP3/Luthra%20Portfolio/images-1.jpeg");
+	background-size: cover;
+}
+
+#t3 {
+	background-color: blue;
+}
