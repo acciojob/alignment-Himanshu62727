@@ -1,19 +1,16 @@
 
 #t1 {
 	background-color: green;
-	height: 30px;
 }
 
 #t2 {
 	background-image: url("https://www2.d125.org/applied_arts/teched/courses/WEB/portfolios/2013_FallP3/Luthra%20Portfolio/images-1.jpeg");
 	background-size: cover;
-	border-collapse: separate;
-	height: 500px;
+	height: 
 }
 
 #t3 {
 	background-color: blue;
-	height: 30px;
 }
 
 #center {
@@ -24,10 +21,4 @@
 	text-align: right;
 }
 
-.table-style {
-	border: solid black 1px;
-	padding: 1px;
-	margin: 1px;
-	border-collapse: separate;
-	border-spacing: 1px;
-}
+.
